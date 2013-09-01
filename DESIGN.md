@@ -15,8 +15,6 @@ use a persistent IRC session through the dbot web interface.
 3. Returning to his flat, he decides to post a review of his chicken in an IRC
      room, so he logs into his persistent web session on DBot web.
 
-### Overview
-
 #### Session Creation
 
 dbot-irc will be initialised with the configuration options 
